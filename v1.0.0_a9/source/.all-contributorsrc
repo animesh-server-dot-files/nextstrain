@@ -1,0 +1,84 @@
+{
+  "projectName": "nextclade",
+  "projectOwner": "nextstrain",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributorsSortAlphabetically": false,
+  "skipCi": false,
+  "contributors": [
+    {
+      "login": "emmahodcroft",
+      "name": "Emma Hodcroft",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/14290674?v=4",
+      "profile": "https://github.com/emmahodcroft",
+      "contributions": [
+        "ideas",
+        "test",
+        "talk",
+        "review"
+      ]
+    },
+    {
+      "login": "tsibley",
+      "name": "Thomas Sibley",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/79913?v=4",
+      "profile": "https://tsibley.net/",
+      "contributions": [
+        "infra",
+        "security"
+      ]
+    },
+    {
+      "login": "theosanderson",
+      "name": "Theo Sanderson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19732295?v=4",
+      "profile": "http://theo.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "stroudn1",
+      "name": "Natalie Stroud",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17433156?v=4",
+      "profile": "http://www.natalieastroud.com/",
+      "contributions": [
+        "content",
+        "translation"
+      ]
+    },
+    {
+      "login": "iskandr",
+      "name": "Alex Rubinsteyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48441?v=4",
+      "profile": "http://www.rubinsteyn.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "molecules",
+      "name": "Christopher Bottoms",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345060?v=4",
+      "profile": "https://github.com/molecules",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "fmaguire",
+      "name": "Finlay Maguire",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1698629?v=4",
+      "profile": "http://finlaymagui.re/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "repoType": "github",
+  "contributorsPerLine": 7,
+  "repoHost": "https://github.com",
+  "commitConvention": "angular"
+}
