@@ -12,7 +12,7 @@ proc ModulesHelp { } {
 # for Tcl script use only
 set program		"Nextstrain tools"	
 set	version		"1.0.0 alpha 9"
-set	prefix		$env(MODULE_PREFIX)/modules/nextstrain/v1.0.0_a9/package
+set	prefix		$env(MODULE_PREFIX)/modules_source/nextstrain/v1.0.0_a9/package
 
 module-whatis	"$program version: $version"
 
